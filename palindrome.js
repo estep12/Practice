@@ -9,4 +9,4 @@ function palindrome(str) {
     }
     return true;
    }
-   console.log(palindrome("A man, a plan, a canal. Panama"));
+   console.log(palindrome(" man, a plan, a canal. Panama"));
